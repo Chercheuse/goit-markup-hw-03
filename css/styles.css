@@ -218,8 +218,7 @@ li {
 }
 
 .visually-hidden {
-    position: fixed;
-  transform: scale(0);
+display:none;
 }
 
 .feature-list {
